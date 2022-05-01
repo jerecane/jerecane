@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jerecane
+- 👋 Hi, I’m Jeremias.
 - 👀 I’m interested in mobile apps and web security. 
 - 🌱 I’m currently learning C, JavaScript, Python. 
 - 💞️ I’m looking to collaborate on...
