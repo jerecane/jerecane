@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jeremias.
 - 👀 I’m interested in mobile apps and web security. 
-- 🌱 I’m currently learning C.
+- 🌱 I’m currently learning Swift and iOS developing.
 - 💞️ I’m looking to collaborate on...
 - 📫 How to reach me jerecane@hotmail.com
 
